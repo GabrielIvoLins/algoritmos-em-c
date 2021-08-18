@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-// Author: Gabriel Ivo Lins
 // aprendendo a usar estrutura switch.
 
 int main(){
